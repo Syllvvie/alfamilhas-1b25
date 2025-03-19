@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+    font-family: "Roboto Mono", monospace;
+    background-color: #f4f4f4;
+}  
+
+section {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.menu ul li{
+    display: inline-block;
+}
