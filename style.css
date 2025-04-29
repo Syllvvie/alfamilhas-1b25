@@ -91,3 +91,20 @@ footer {
     padding: 10px;
     color: #fff;
 }
+
+.depoimentos {
+    text-align: center;
+
+}
+
+.depoimentos h3 {
+    color: #444;
+    font-weight: bold;
+}
+
+.depoimentos h2 {
+    font-size: 35px;
+    color: #444;
+    font-weight: bold;
+    padding: 20px;
+}
